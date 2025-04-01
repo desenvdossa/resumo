@@ -1,5 +1,5 @@
-<h3>Mineraçaõ do conhecimento</h3> 
-<p>Muitos conteudos desorganizados são passiveis de perda e causam demora de processos. Na min~eração os dados são bloqueados em documentos e encontra insigts em escala. O Azure Cognitiv search é a palatofmra para realização dessa atividade da IA da Azure.</p>
+<h3>Mineração do conhecimento</h3> 
+<p>Muitos conteúdos desorganizados são passiveis de perda e causam demora de processos. Na min~eração os dados são bloqueados em documentos e encontra insigts em escala. O Azure Cognitiv search é a palatofmra para realização dessa atividade da IA da Azure.</p>
 
 <h3>Soluções de pesquisa cognitiva</h3>
 <p>Blob Storage containers, data lake storage Gen2 e table storage para ingestão de dados, o emriquecimento de indice auxilia na compreensão mais profunda e pesquisável, auxiliando no PLN e na visão do modelo para criar a visualização do dados.</p>
